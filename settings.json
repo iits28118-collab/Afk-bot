@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": " CPgroup-TJ2P.aternos.me",
-    "port": 30979,
+    "ip": "CPgroup-TJ2P.aternos.me",
+    "port":30979,
     "version": "",
     "try-creative": false
   },
